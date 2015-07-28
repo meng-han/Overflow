@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>add_file-512.png</file>
+        <file>cancel-512.png</file>
+        <file>checkmark-512.png</file>
+        <file>exit-512.png</file>
+        <file>overflowLogo.png</file>
+        <file>about-512.png</file>
+        <file>rsz_overflowlogo02.png</file>
+        <file>overflowLogo0.3.png</file>
+    </qresource>
+</RCC>
